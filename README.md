@@ -8,7 +8,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/Gabriel-Pereiraa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Gabriel-Pereiraa?tab=following">
+    <a href="https://github.com/Gabriel-Pereiraa?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
